@@ -18,30 +18,33 @@ The following functionalities supported by the Online Library database managemen
 
 Detailed Functional Requirements 
 
-1. User Registration and Login : 
-⮚ Users can register for the system using their personal information. 
+1. User Registration and Login :
+   
+⮚ Users can register for the system using their personal information.
+ 
 ⮚ Users receive an OTP on their registered email ID for verification. 
+
 ⮚ After entering the correct, users can log in and use the library’s facilities. 
 
-2. Book Search and Order : 
+3. Book Search and Order : 
 ⮚ Users can search for books by name or in a particular department. 
 ⮚ Users can order a book, and after admin approval, they can see the issue and return date  beside the book name. 
 ⮚ Users can send a message to the admin if they need more time. 
 ⮚ Users can able to see the top 3 Trending books of the library. 
 
-3. Automatic Timer for Return Date : 
+4. Automatic Timer for Return Date : 
 ⮚ An automatic timer is set up on the user’s ID to show how much time is left until the  return date. 
 ⮚ Users can see the time remaining before the return date. 
 
-4. Fine Management : 
+5. Fine Management : 
 ⮚ Users can see the fine amount if applicable in the fine section
 ⮚ The admin can manage the fines and see the details of the students who have borrowed a  book with the return date. 
 
-5. Chatbox and Comment Section for Communication : 
+6. Chatbox and Comment Section for Communication : 
 ⮚ Registered users can comment on their suggestions and ask questions in the public  comment section. 
 ⮚ A chatbox is available for users and admin to communicate with each other. 
 
-6. Admin Side Features for Book Management and Fine Management : 
+7. Admin Side Features for Book Management and Fine Management : 
 ⮚ The admin can add and delete books from the list. 
 ⮚ The admin can send a notification to users before their return date via email. ⮚ The admin can communicate through message. 
 ⮚ The admin can reply to comments. 
