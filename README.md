@@ -26,31 +26,48 @@ Detailed Functional Requirements
 
 ⮚ After entering the correct, users can log in and use the library’s facilities. 
 
-3. Book Search and Order : 
+2. Book Search and Order :
+   
 ⮚ Users can search for books by name or in a particular department. 
-⮚ Users can order a book, and after admin approval, they can see the issue and return date  beside the book name. 
+
+⮚ Users can order a book, and after admin approval, they can see the issue and return date  beside the book name.
+
 ⮚ Users can send a message to the admin if they need more time. 
+
 ⮚ Users can able to see the top 3 Trending books of the library. 
 
-4. Automatic Timer for Return Date : 
+3. Automatic Timer for Return Date :
+   
 ⮚ An automatic timer is set up on the user’s ID to show how much time is left until the  return date. 
+
 ⮚ Users can see the time remaining before the return date. 
 
-5. Fine Management : 
+4. Fine Management :
+   
 ⮚ Users can see the fine amount if applicable in the fine section
+
 ⮚ The admin can manage the fines and see the details of the students who have borrowed a  book with the return date. 
 
-6. Chatbox and Comment Section for Communication : 
+5. Chatbox and Comment Section for Communication :
+   
 ⮚ Registered users can comment on their suggestions and ask questions in the public  comment section. 
+
 ⮚ A chatbox is available for users and admin to communicate with each other. 
 
-7. Admin Side Features for Book Management and Fine Management : 
+7. Admin Side Features for Book Management and Fine Management :
+   
 ⮚ The admin can add and delete books from the list. 
-⮚ The admin can send a notification to users before their return date via email. ⮚ The admin can communicate through message. 
+
+⮚ The admin can send a notification to users before their return date via email. ⮚ The admin can communicate through message.
+
 ⮚ The admin can reply to comments. 
+
 ⮚ The admin can manage fines and see the details of the students who have borrowed a  book with the return date. 
+
 ⮚ The admin can approve or reject book requests of users. 
+
 ⮚ The admin can see the profiles of the students and edit them. 
+
 ⮚ Only the current admin can approve the addition of a new admin. 
 
 Software and Hardware Requirements 
