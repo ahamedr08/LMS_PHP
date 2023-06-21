@@ -8,7 +8,9 @@ Application Users
 The users of the system are Students and Teachers who can register and log in to the system to  access its features. The system also has an admin side for library staff to mange the system. 
 
 Functions Overview 
+
 The following functionalities supported by the Online Library database management system : 
+
 1. User registration and login. 
 2. Book search and order. 
 3. Automatic timer for the return date of the books. 
@@ -54,7 +56,7 @@ Detailed Functional Requirements
 
 ⮚ A chatbox is available for users and admin to communicate with each other. 
 
-7. Admin Side Features for Book Management and Fine Management :
+6. Admin Side Features for Book Management and Fine Management :
    
 ⮚ The admin can add and delete books from the list. 
 
