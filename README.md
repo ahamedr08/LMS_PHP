@@ -2,9 +2,11 @@
 Library Database Management System using PHP
 
 Introduction
+
 The aim of thie mini-project is to create an Online Library Management System tahta utomates  and manages the daily tasks of a library. The system has two sides, one for the users and another  for the admin. The user side allows registered users to order and search for books, view personal  information, and mange their account. The admin side, on the other hand, provides features such  as adding and deleting books, managing fines, and approving or rejecting book requests. 
 
 Application Users 
+
 The users of the system are Students and Teachers who can register and log in to the system to  access its features. The system also has an admin side for library staff to mange the system. 
 
 Functions Overview 
@@ -75,6 +77,8 @@ Detailed Functional Requirements
 Software and Hardware Requirements 
 
 Front end Tool : HTML, CSS, Javascript, Bootstrap library 
+
 ServerSide programming : PHP 
+
 Backend DataBase : MySQL (using XAMPP as the local development environment) 
 
