@@ -50,7 +50,7 @@ Detailed Functional Requirements
    
 ⮚ Users can see the fine amount if applicable in the fine section
 
-⮚ The admin can manage the fines and see the details of the students who have borrowed a  book with the return date. 
+⮚ The admin can manage the fines and see the details of the students who have borrowed a book with the return date. 
 
 5. Chatbox and Comment Section for Communication :
    
@@ -62,7 +62,9 @@ Detailed Functional Requirements
    
 ⮚ The admin can add and delete books from the list. 
 
-⮚ The admin can send a notification to users before their return date via email. ⮚ The admin can communicate through message.
+⮚ The admin can send a notification to users before their return date via email.
+
+⮚ The admin can communicate through message.
 
 ⮚ The admin can reply to comments. 
 
