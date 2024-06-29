@@ -1,5 +1,5 @@
 # LMS_PHP
-Library Database Management System using PHP
+Library Database Management System using PHP.
 
 Introduction
 
