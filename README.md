@@ -1,7 +1,7 @@
 # LMS_PHP
-Library Database Management System using PHP.
+Library Database Management System using PHP
 
-Introduction
+Introduction:
 
 The aim of thie mini-project is to create an Online Library Management System tahta utomates  and manages the daily tasks of a library. The system has two sides, one for the users and another  for the admin. The user side allows registered users to order and search for books, view personal  information, and mange their account. The admin side, on the other hand, provides features such  as adding and deleting books, managing fines, and approving or rejecting book requests. 
 
