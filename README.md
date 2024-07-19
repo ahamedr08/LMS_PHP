@@ -11,7 +11,7 @@ The users of the system are Students and Teachers who can register and log in to
 
 Functions Overview 
 
-The following functionalities supported by the Online Library database management system : 
+The following functionalities supported by the Online Library database management system 
 
 1. User registration and login. 
 2. Book search and order. 
