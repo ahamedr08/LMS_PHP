@@ -20,7 +20,7 @@ The following functionalities supported by the Online Library database managemen
 5. Chatbox and Comment section for communication between users and admin
 6. Admin side features for book management and fine management. 
 
-Detailed Functional Requirements:
+Detailed Functional Requirements
 
 1. User Registration and Login :
    
