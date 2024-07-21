@@ -76,7 +76,7 @@ Detailed Functional Requirements
 
 ⮚ Only the current admin can approve the addition of a new admin. 
 
-Software and Hardware Requirements:
+Software and Hardware Requirements
 
 Front end Tool : HTML, CSS, Javascript, Bootstrap library 
 
