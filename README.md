@@ -22,7 +22,7 @@ The following functionalities supported by the Online Library database managemen
 
 Detailed Functional Requirements
 
-1. User Registration and Login :
+1. User Registration and Login 
    
 ⮚ Users can register for the system using their personal information.
  
