@@ -82,5 +82,5 @@ Front end Tool : HTML, CSS, Javascript, Bootstrap library
 
 ServerSide programming : PHP 
 
-Backend DataBase : MySQL (using XAMPP as the local development environment) ..
+Backend DataBase : MySQL (using XAMPP as the local development environment) ...
 
